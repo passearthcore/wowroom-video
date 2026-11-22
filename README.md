@@ -7,3 +7,4 @@ The files are public so our posting tool (Metricool) can fetch each video by its
 - One folder per video.
 - The room ideas in the videos are AI pictures.
 - f02: the room photo is by Martin Lang on Pexels.
+- f02-v2-ledge: the room photo is an AI picture too (no stock photo). slide01-08.jpg are the TikTok photo post; the 3 mp4 files are the same video for Instagram (no song), YouTube (song) and Facebook (9:16).
